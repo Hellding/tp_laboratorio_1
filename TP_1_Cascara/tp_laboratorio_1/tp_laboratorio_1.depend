@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1491581518 source:c:\users\swordhell\desktop\my shared folder\utn\tp_laboratorio_1\gol.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1491581561 c:\users\swordhell\desktop\my shared folder\utn\tp_laboratorio_1\funciones.h
+
+1491580134 source:c:\users\swordhell\desktop\my shared folder\utn\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491589944 source:c:\users\swordhell\desktop\tp\tp_1_cascara\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491587683 c:\users\swordhell\desktop\tp\tp_1_cascara\tp_laboratorio_1\funciones.h
+
