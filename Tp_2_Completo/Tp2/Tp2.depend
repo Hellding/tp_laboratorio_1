@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1493263737 source:c:\users\swordhell\downloads\tp2\c.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"F.h"
+
+1493262066 c:\users\swordhell\downloads\tp2\f.h
+
+1493263601 source:c:\users\swordhell\downloads\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"F.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1493300763 source:c:\users\alumno\desktop\tp2\c.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"F.h"
+
+1493264004 c:\users\alumno\desktop\tp2\f.h
+
+1493297948 source:c:\users\alumno\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"F.h"
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
